@@ -1,7 +1,5 @@
 # home-sweet-home
 
-Un jeu de société où l'on tente de construire une maison pour satisfaire un acquéreur.
-
 ## Avertissement et licence
 
 Attention, ce jeu est un prototype, un travail inachevé. Le jeu n'est pas terminé et il est normal que vous rencontriez des incohérences ou des déséquilbres dans les règles. Je serais évidemment ravi d'en être informé.
@@ -16,17 +14,21 @@ Vous avez déjà fait construire une maison ? Vous avez vécu l'enfer de devoir 
 
 A vous maintenant de tenter l'aventure inverse, vous allez devoir gérer la construction d'une maison pour un acquéreur exigeant, sans le sous et bien sûr pressé ("vous comprenez, on a déjà vendu l'appartement")... bienvenue dans "home sweet home".
 
-## Le matériel de jeu
+# Le matériel de jeu
 
-### Les plateaux individuels
+## Les plateaux individuels
 
-### Le plateau central
+Bla plateaux
 
-#### Les tuiles de constructions
+----------------------------
 
-#### Les éléments d'amélioration
+## Le plateau central
 
-#### Les cartes mission
+### Les tuiles de constructions
 
-#### Les cartes "coup de main"
+### Les éléments d'amélioration
+
+### Les cartes mission
+
+### Les cartes "coup de main"
 
