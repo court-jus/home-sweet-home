@@ -1,0 +1,19 @@
+nom,commentaire,budget,chadulte,chenfant,sdb,salon,cuisine,autre
+Alaise,Plutôt riche mais pas chiante,20-65,2,3,2,3,1 standard et 1 américaine,"WC dans la sdb : -2
+piscine : +1 par tuile piscine
+bureau : +1 si luxueux"
+Balaise,Sportive donc grande piscine et salle de sport (bureau ch/ami),12-40,1,1,2,2,1 américaine,"pas de bureau ni de chambre d'ami = -4
+pas de piscine double = -4"
+Champi,Ecolo donc pas de dépense inutile et plein d'arbres,8-30,1,1,1,1,1 standard,"arbre : +1 par tuile
+pas de puit : -3
+-1 pour chaque groupe de 2 tuiles luxueuses (arrondi à l'inférieur)
+patio fleuri : +3"
+Desquaux,Veut que du beau,12-30,1,2,1,2,1 américaine,-2 pour chaque tuile non luxueuse
+Enchantier,avoir,15-35,1,3,1,2,1,"A voir, pas d'idée"
+Fettar,"2 ch ami, grand salon, cuisine américaine",15-35,1,0,2,4,1 américaine,"salon non luxueux = -3
+cuisine non luxueuse = -2"
+Galère,Pas de sous,10-30,1,2,1,2,1 standard, +1 pour chaque pièce d'argent qu'il reste à la fin
+Heureux,"Se prend pas la tête, limite pas de critère",10-30,1,1,1,1,1,
+Ilikroa,Ses désirs dépassent ses moyens,10-30,2,2,2,2,1 américaine,pas de piscine = -1
+Jobard,"Que des trucs bizarres, genre 3 wc, 2 cuisines voire pourquoi pas 3 celliers",15-40,3,1,1,1,2 standard et 1 américaine,"piscine : +2 si 2 piscines rondes séparées
+arbre : +2 si 2 arbres, un de chaque côté de la maison, les arbres ne doivent pas pouvoir se voir. Attention, le bonus n'est attribué que si il y a exactement 2 arbres"

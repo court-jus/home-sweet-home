@@ -1,0 +1,265 @@
+﻿mse_version: 2.0.1
+game: magic
+stylesheet: new
+set_info:
+	automatic_reminder_text: "old, expert, pseudo, action, custom"
+	automatic_card_numbers: true
+	sort_special_rarity: "after other cards"
+	default_rarity: "common"
+	card_language: "English"
+	mark_errors: true
+	use_gradient_multicolor: "only for two color cards"
+styling:
+	magic-firepenguinmaster-flip:
+		mse_version: 2.0.1
+		cardname_font: "Matrix"
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		use_guild_mana_symbols: false
+		tap_symbol: "modern"
+		center_text: "never"
+	magic-firepenguinmastersplit:
+		mse_version: 2.0.1
+		cardname_font: "Matrix"
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		green_style: "dark"
+		land_style: "normal"
+		use_guild_mana_symbols: false
+		tap_symbol: "modern"
+		center_text: "never"
+	magic-new:
+		mse_version: 2.0.1
+		color_identity: "sometimes"
+		artifact_style: "dark"
+		saturated_multicolor: true
+		grey_hybrid_name: true
+		colored_multicolor_land_name: true
+		use_guild_mana_symbols: false
+		tap_symbol: "modern"
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		center_text: "never"
+		inverted_common_symbol: false
+		image_size: "standard"
+	magic-new-flip:
+		mse_version: 2.0.1
+		grey_hybrid_name: true
+		colored_multicolor_land_name: true
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		center_text: "never"
+		inverted_common_symbol: false
+		composite_image: false
+	magic-new-planeswalker-4abil:
+		mse_version: 2.0.1
+		grey_hybrid_name: true
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		center_text: "never"
+		inverted_common_symbol: false
+	magic-new-promo:
+		mse_version: 2.0.1
+		darker_artifacts: true
+		saturated_multicolor: true
+		grey_hybrid_name: true
+		colored_multicolor_land_name: true
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		center_text: "never"
+	magic-new-split:
+		mse_version: 2.0.1
+		darker_artifacts: true
+		saturated_multicolor: true
+		grey_hybrid_name: true
+		colored_multicolor_land_name: true
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		center_text: "never"
+		inverted_common_symbol: false
+	magic-new-token:
+		mse_version: 2.0.1
+		grey_hybrid_typeline: true
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		one_textline_tokens: false
+		center_text: "short text only"
+		inverted_common_symbol: false
+	magic-new-token-clear:
+		mse_version: 2.0.1
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		tap_symbol: "modern"
+		one_textline_tokens: false
+		center_text: "short text only"
+		inverted_common_symbol: false
+		border_visible: true
+		artist_font_color: "black"
+	magic-new-transform:
+		mse_version: 2.0.1
+		color_identity: "sometimes"
+		artifact_style: "dark"
+		saturated_multicolor: true
+		grey_hybrid_name: true
+		colored_multicolor_land_name: true
+		use_guild_mana_symbols: false
+		tap_symbol: "modern"
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		center_text: "never"
+		inverted_common_symbol: false
+		image_size: "standard"
+	magic-old-split:
+		mse_version: 2.0.1
+		use_guild_mana_symbols: false
+		text_box_mana_symbols: "magic-mana-small.mse-symbol-font"
+		type_of_gradient_multicolor: "full card"
+		type_of_gradient_artifact: "full card"
+		tap_symbol: "old"
+		center_text: "never"
+		colored_rarities: true
+		left_align_artist: false
+		pt_font: "MPlantin-Bold"
+	magic-textless:
+		mse_version: 2.0.1
+		grey_hybrid_name: true
+		darker_artifacts: true
+		use_guild_mana_symbols: false
+		inverted_common_symbol: false
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:34:03
+	time_modified: 2012-10-05 13:59:11
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "Golf avec le ministre"
+	image: local_image_file("image2")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Volez</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte <error-spelling:en_us:/magic.mse-game/magic-words>à</error-spelling:en_us:/magic.mse-game/magic-words> son\n<error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words>. <error-spelling:en_us:/magic.mse-game/magic-words>Celui-ci</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>pioche</error-spelling:en_us:/magic.mse-game/magic-words> 2\n<error-spelling:en_us:/magic.mse-game/magic-words>cartes</error-spelling:en_us:/magic.mse-game/magic-words>, en <error-spelling:en_us:/magic.mse-game/magic-words>choisit</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words> et\n<error-spelling:en_us:/magic.mse-game/magic-words>défausse</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>l’autre</error-spelling:en_us:/magic.mse-game/magic-words>"
+	flavor_text: "<i-flavor><sym><error-spelling:en_us>I</sym>Lors</error-spelling:en_us> <error-spelling:en_us>d’une</error-spelling:en_us> phase\n“<error-spelling:en_us>Jouer</error-spelling:en_us> <error-spelling:en_us>une</error-spelling:en_us> carte”, <error-spelling:en_us>retirer</error-spelling:en_us> <error-spelling:en_us>une</error-spelling:en_us>\ncarte anti-trust.</i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:45:37
+	time_modified: 2012-10-05 13:59:13
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "Entrepôt"
+	image: local_image_file("image1")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Volez</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte <error-spelling:en_us:/magic.mse-game/magic-words>à</error-spelling:en_us:/magic.mse-game/magic-words> son\n<error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words>. <error-spelling:en_us:/magic.mse-game/magic-words>Celui-ci</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>pioche</error-spelling:en_us:/magic.mse-game/magic-words> 2\n<error-spelling:en_us:/magic.mse-game/magic-words>cartes</error-spelling:en_us:/magic.mse-game/magic-words>, en <error-spelling:en_us:/magic.mse-game/magic-words>choisit</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words> et\n<error-spelling:en_us:/magic.mse-game/magic-words>défausse</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>l’autre</error-spelling:en_us:/magic.mse-game/magic-words>"
+	flavor_text: "<i-flavor><sym><error-spelling:en_us>I</sym>Vous</error-spelling:en_us> <error-spelling:en_us>pouvez</error-spelling:en_us> conserver <error-spelling:en_us>une</error-spelling:en_us>\n<error-spelling:en_us>tuile</error-spelling:en_us> en main</i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:49:35
+	time_modified: 2012-10-05 13:59:15
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "+ 3 cartes"
+	image: local_image_file("image5")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Piochez</error-spelling:en_us:/magic.mse-game/magic-words> 3 <error-spelling:en_us:/magic.mse-game/magic-words>cartes</error-spelling:en_us:/magic.mse-game/magic-words>.\n<error-spelling:en_us:/magic.mse-game/magic-words>Conservez-en</error-spelling:en_us:/magic.mse-game/magic-words> 1 <error-spelling>,</error-spelling> <error-spelling:en_us:/magic.mse-game/magic-words>donnez-en</error-spelling:en_us:/magic.mse-game/magic-words>\n1 <error-spelling:en_us:/magic.mse-game/magic-words>au</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words>\ncarte et <error-spelling:en_us:/magic.mse-game/magic-words>défaussez</error-spelling:en_us:/magic.mse-game/magic-words> la <error-spelling:en_us:/magic.mse-game/magic-words>dernière</error-spelling:en_us:/magic.mse-game/magic-words>."
+	flavor_text: "<i-flavor></i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:51:17
+	time_modified: 2012-10-05 13:59:17
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "+ 2 cartes"
+	image: local_image_file("image4")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Piochez</error-spelling:en_us:/magic.mse-game/magic-words> 2 <error-spelling:en_us:/magic.mse-game/magic-words>cartes</error-spelling:en_us:/magic.mse-game/magic-words>.\nLe <error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte\n<error-spelling:en_us:/magic.mse-game/magic-words>pioche</error-spelling:en_us:/magic.mse-game/magic-words> 1 carte."
+	flavor_text: "<i-flavor></i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:52:27
+	time_modified: 2012-10-05 13:59:20
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "+ 3 pièces"
+	image: local_image_file("image3")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Gagnez</error-spelling:en_us:/magic.mse-game/magic-words> <sym>3</sym>\nLe <error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte\n<error-spelling:en_us:/magic.mse-game/magic-words>gagne</error-spelling:en_us:/magic.mse-game/magic-words> <sym>1</sym>"
+	flavor_text: "<i-flavor></i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 13:58:26
+	time_modified: 2012-10-05 14:01:03
+	extra_data:
+		magic-new:
+			mse_version: 2.0.1
+	border_color: rgb(255,255,255)
+	card_color: "red"
+	name: "Vol de main d’oeuvre"
+	image: local_image_file("image6")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Volez</error-spelling:en_us:/magic.mse-game/magic-words> <sym>;1</sym> <error-spelling:en_us:/magic.mse-game/magic-words>à</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>un</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>autre</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>joueur</error-spelling:en_us:/magic.mse-game/magic-words>\npour <error-spelling:en_us:/magic.mse-game/magic-words>ce</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>tour-ci</error-spelling:en_us:/magic.mse-game/magic-words>.\nLe <error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte\n<error-spelling:en_us:/magic.mse-game/magic-words>pioche</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words> carte."
+	flavor_text: "<i-flavor></i-flavor>"
+	rarity_2: mark_default("common")
+card:
+	has_styling: false
+	notes: 
+	time_created: 2012-10-05 14:01:38
+	time_modified: 2012-10-05 14:05:34
+	extra_data:
+		magic-firepenguinmaster-flip:
+			mse_version: 2.0.1
+		magic-firepenguinmastersplit:
+			mse_version: 2.0.1
+		magic-new:
+			mse_version: 2.0.1
+		magic-new-flip:
+			mse_version: 2.0.1
+		magic-new-planeswalker-4abil:
+			mse_version: 2.0.1
+		magic-new-promo:
+			mse_version: 2.0.1
+		magic-new-split:
+			mse_version: 2.0.1
+		magic-new-token:
+			mse_version: 2.0.1
+		magic-new-token-clear:
+			mse_version: 2.0.1
+		magic-new-transform:
+			mse_version: 2.0.1
+		magic-old-split:
+			mse_version: 2.0.1
+		magic-textless:
+			mse_version: 2.0.1
+	card_color: "red"
+	name: "Livraison gratuite"
+	image: local_image_file("image7")
+	super_type: "<word-list-type>Corruption</word-list-type>"
+	rule_text: "<sym><error-spelling:en_us:/magic.mse-game/magic-words>;1</sym>Lors</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>votre</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>prochaine</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>pioche</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>tuile</error-spelling:en_us:/magic.mse-game/magic-words>,\n<error-spelling:en_us:/magic.mse-game/magic-words>piochez</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>tuile</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>supplémentaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> la <error-spelling:en_us:/magic.mse-game/magic-words>même</error-spelling:en_us:/magic.mse-game/magic-words>\npile.\nLe <error-spelling:en_us:/magic.mse-game/magic-words>propriétaire</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>de</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte <error-spelling:en_us:/magic.mse-game/magic-words>reçoit</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words>\n<error-spelling:en_us:/magic.mse-game/magic-words>tuile</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>lorsque</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>vous</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>l’activez</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>puis</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>une</error-spelling:en_us:/magic.mse-game/magic-words>\n<error-spelling:en_us:/magic.mse-game/magic-words>fois</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>sur</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>deux</error-spelling:en_us:/magic.mse-game/magic-words>. <error-spelling:en_us:/magic.mse-game/magic-words>Tournez</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> carte pour\n<error-spelling:en_us:/magic.mse-game/magic-words>indiquer</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>cette</error-spelling:en_us:/magic.mse-game/magic-words> <error-spelling:en_us:/magic.mse-game/magic-words>alternance</error-spelling:en_us:/magic.mse-game/magic-words>."
+	flavor_text: "<i-flavor><error-spelling:en_us>Lorsque</error-spelling:en_us> <error-spelling:en_us>cette</error-spelling:en_us> carte est <error-spelling:en_us>à</error-spelling:en_us> <error-spelling:en_us>l’envers</error-spelling:en_us>, <error-spelling:en_us>le</error-spelling:en_us>\n<error-spelling:en_us>propriétaire</error-spelling:en_us> <error-spelling:en_us>ne</error-spelling:en_us> <error-spelling:en_us>pioche</error-spelling:en_us> pas <error-spelling:en_us>de</error-spelling:en_us> <error-spelling:en_us>tuile</error-spelling:en_us>.</i-flavor>"
+	rarity_2: mark_default("common")
+version_control:
+	type: none
+apprentice_code: 

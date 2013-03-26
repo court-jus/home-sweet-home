@@ -1,0 +1,80 @@
+;  Le deck de cartes
+cards = 9
+BORDER=NONE,#000000,0,MARKDOT,#000000
+rectangle="1-7",0,0,6,9,#710000
+rectangle="1-7",0.2,1.2,5.6,3,#FFFFFF
+rectangle="1-7",0.2,4.4,5.6,4.4,#FFFFFF
+IMAGE="1-7","Z:\home\celine\Jeux\PrintAndPlay\HomeSweetHome\test cartes\RedMeeple.png",0.25,4.45,0.8,0.8,0,N
+IMAGE="1,4","Z:\home\celine\Jeux\PrintAndPlay\HomeSweetHome\test cartes\CartePosee.png",0.25,6.45,0.8,0.8,0,N
+FONT=arial,18,B,#710000,#FFCACA
+TEXT=1-7,C,0.1,8.1,0.8,0.8,CENTER,CENTER
+
+font = arial, 14, B, #710000,#ffffff
+text = "1", "Entrepôt", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=1,"Volez cette carte à son propriétaire. Celui-ci pioche deux cartes, en choisit une et défausse l'autre.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+TEXT=1,"Le joueur peut conserver une tuile en main.",1.2,6.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=1,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\entrepot2.jpg",0.2,1.2,5.61,3,0
+
+font = arial, 14, B, #710000
+text = "2", "+ 2 cartes", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=2,"Vous piochez 2 cartes. Le propriétaire de cette carte en pioche 1.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=2,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\2cartes.png",0.2,1.2,5.61,3,0,P
+
+font = arial, 14, B, #710000
+text = "3", "+ 3 cartes", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=3,"Vous piochez 3 cartes, vous en conservez 1, en donnez 1 au propriétaire de cette carte, et défaussez la dernière.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=3,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\3cartes.png",0.2,1.2,5.61,3,0,P
+                                                                                                 
+font = arial, 14, B, #710000
+text = 4, "Golf avec le ministre", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=4,"Volez cette carte à son propriétaire. Celui-ci pioche deux cartes, en choisit une et défausse l'autre.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+TEXT=4,"Le joueur peut, lors d'une phase ''Jouer une carte' décider de retirer une carte anti-trust.",1.2,6.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=4,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\baballe.jpeg",0.2,1.2,5.61,3,0,P
+                                                                     
+font = arial, 14, B, #710000
+text = 5, "Vol de main d'oeuvre", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=5,"Volez un ouvrier à un autre joueur pour ce tour-ci. Le propriétaire de cette carte pioche une carte.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=5,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\ouvrier-batiment.jpg",0.2,1.2,5.61,3,0,P
+
+font = arial, 14, B, #710000
+text = 6, "On partage ?", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 10, , #000000
+TEXT=6,"Vous gagnez 3 pièces. Le propriétaire de cette carte gagne 1 pièce.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+IMAGE=6,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\pieces-d-or.jpg",0.2,1.2,5.61,3,0,P
+
+font = arial, 14, B, #710000
+text = 7, "Tombé du camion", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 8, , #000000
+TEXT=7,"Lors de votre prochaine pioche de tuile, piochez une tuile supplémentaire de la même pile. Le propriétaire de cette carte reçoit une tuile. Tournez cette carte.",1.2,4.4,4.6,2.0,LEFT,WORDWRAP
+font = arial, 10, , #000000
+IMAGE=7,"Z:\home\celine\Jeux\PrintAndPlay\HomeSweetHome\test cartes\RedMeeple.png",4.95,7.95,0.8,0.8,180,N
+TEXT=7,"Lors de votre prochaine pioche de tuile, piochez une tuile supplémentaire de la même pile. Tournez cette carte.",0.9,6.5,4,2.3,LEFT,WORDWRAP,180
+IMAGE=7,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\LivraisonTransporteur.png",0.2,1.2,5.61,3,0,P
+
+
+
+rectangle="8-9",0,0,6,9,#00FF00
+rectangle="8-9",0.2,1.2,5.6,3,#FFFFFF
+rectangle="8-9",0.2,4.4,5.6,4.4,#FFFFFF
+FONT=arial,18,B,#009700,#B3FFB3
+TEXT=8-9,"AT",5.1,8.1,0.8,0.8,CENTER,CENTER
+IMAGE="8-9","Z:\home\celine\Jeux\PrintAndPlay\HomeSweetHome\test cartes\CyanMeeple.png",0.25,4.45,0.8,0.8,0,N
+
+font = arial, 14, B, #00FF00,#ffffff
+text = 8, "Super-discount", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 8, , #000000
+TEXT=8,"Tous les joueurs, sauf celui qui dispose du plus d'argent peuvent acheter une tuile au discount en payant le prix de la tuile moins la remise normale du discount moins 1 (le prix payé ne peut pas être inférieur à 1). Par exemple, si une tuile de valeur 5 est sur la zone de discount -2, il pourra la payer 2 (5-2-1=2). Ils jouent dans l'ordre croissant de l'argent disponible.",1.2,4.4,4.6,3.6,LEFT,WORDWRAP
+font = arial, 10, , #000000
+IMAGE=8,"Z:\home\celine\Jeux\PrintAndPlay\HomeSweetHome\Familles\Icones\coin.png",0.2,1.2,5.61,3,0,P
+
+font = arial, 14, B, #00FF00,#ffffff
+text = 9, "Livraison express", 0.2, 0.2, 5.6, 0.8, center
+font = arial, 8, , #000000
+TEXT=9,"Tous les joueurs, sauf celui qui a posé le plus de tuiles sur son chantier disposent d'une action ''Piocher puis poser une tuile' sans utiliser d'ouvrier (ils doivent payer le prix quand même). Ils jouent cette action dans l'ordre croissant du nombre de tuiles posées.",1.2,4.4,4.6,3.6,LEFT,WORDWRAP
+font = arial, 10, , #000000
+IMAGE=9,"Z:\home\celine\Jeux\PrintAndPlay\Game material\image cartes\56par30\LivraisonTransporteur.png",0.2,1.2,5.61,3,0,P
