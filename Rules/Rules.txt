@@ -1,0 +1,200 @@
+Bienvenue chez Vous
+de Ghislain « Court-Jus » Lévêque
+
+Introduction
+Dans ce jeu, les joueurs endossent le rôle d’architectes ou de chefs de chantier qui essayent de construire une maison satisfaisant les critères d’un acquéreur.
+Règles
+Introduction
+On démarre avec un terrain de 5x5 sur lequel on va pouvoir bâtir des fondations dans une première phase puis une maison dans une seconde phase.
+On va devoir placer des tuiles dessus pour construire une maison. La maison peut faire 2 étages.
+Éléments du jeu
+La monnaie (matérialisé par des jetons de 10, 50 ou 100)
+Les points de victoire (matérialisés par la piste de score)
+Les ouvriers (matérialisés par des cubes en bois à la couleur du joueur ou des marqueurs)
+Les phases du jeu
+
+Mise en place
+Fondations
+Bâtir la maison
+Remise des clés
+Mise en place
+
+Chaque joueur place devant lui un plateau “terrain”.
+Chaque joueur reçoit 3 ouvriers
+Le plateau central est placé... au centre de la table
+Les cartes sont mélangées et placées face cachée au centre de la table. La défause sera face cachée également, à côté de la pioche.
+Définir le premier joueur aléatoirement
+Chaque joueur pioche une carte chantier qui indique le budget de départ et les exigences de la famille (nombre de chambres, nombre d’étages, nombre de salles de bain, pièces spéciales comme bureau, cellier...).
+Chaque joueur reçoit alors l’argent indiqué sur la carte chantier
+Les tuiles aménagement extérieur sont séparées des autres, mélangées et placées face cachée en une pile au centre de la table.
+Les autres tuiles sont mélangées et placées face cachée en plusieurs piles (2 par joueur) au centre de la table. Retourner face visible la première tuile de 2 des piles. Les portes sont mises à disposition des joueurs.
+Les joueurs piochent chacun leur tour une tuile sur la pile de leur choix, recommencer jusqu’à ce que chaque joueur ait pioché 3 tuiles.
+Tour de jeu
+Lors de son tour, le joueur peut l’une des actions suivantes si il dispose des ouvriers nécessaires (toutes les actions nécessite un ouvrier sauf l’action ‘jouer une carte’) :
+
+Piocher une carte
+Jouer une carte de sa main dans l’une des zones “anti-trust” du plateau central ou “corruption” de son propre plateau
+Activer une carte déjà présente dans l’une des zones “anti-trust” du plateau central ou “corruption” de n’importe quel plateau de jeu
+Piocher une tuile et la poser sur son plateau individuel
+Faire des travaux sur la maison
+Piocher une carte de la pioche
+Il est interdit de piocher une carte de la pioche si un ouvrier est présent sur la pioche.
+Le joueur pioche deux cartes, en choisit une et défausse l’autre face cachée. Si la dernière carte est piochée, la défausse est mélangée pour constituer la nouvelle pioche.
+Le joueur pose ensuite l’un de ses ouvriers sur la pioche.
+Piocher une carte de la défausse
+Il est interdit de piocher une carte de la défausse si un ouvrier est présent sur la défausse.
+Le joueur pioche la dernière carte défaussée.
+Le joueur pose ensuite l’un de ses ouvriers sur la défausse.
+Jouer une carte
+Le joueur pose une carte de sa main sur l’une des zones “anti-trust” du plateau central ou sur l’une des zones “corruption” de son plateau. Si la zone était précédemment occupée, la carte qui est remplacée est défaussée face cachée. Il est interdit de remplacer une carte sur laquelle un ouvrier est posé.
+Activer une carte
+Il est interdit d’activer une carte si un ouvrier est déjà présent sur celle-ci.
+Le joueur pose l’un de ses ouvriers sur la carte qu’il veut activer. Les effets de la carte sont résolus. Si il s’agit d’une carte “corruption”, le propriétaire de celle-ci bénéficie en plus de l’effet secondaire.
+Lors de l’activation des effets d’une carte, les ouvriers présents sur la pioche ou la défausse n’empêche pas de piocher.
+Piocher et poser une tuile
+Il est interdit de piocher une tuile dans une pile si un ouvrier est déjà présent sur celle-ci.
+Le joueur pioche la tuile au sommet de l’une des piles. Il peut choisir une tuile visible ou non et paye le prix indiqué sur la tuile.
+Au lieu de piocher sur une pile, le joueur peut piocher la tuile visible sur la zone “discount” en payant le prix indiqué sur celle-ci. Dans ce cas, il pose son ouvrier sur la pile discount.
+Il doit ensuite la placer sur son plateau. Sauf avis contraire des cartes, on ne peut pas conserver une tuile que l’on vient de piocher.
+
+Si c’est la première tuile posée, l’une de ses portes doit correspondre avec la porte d’entrée des fondations
+Sinon, ses portes doivent correspondre avec les tuiles déjà posées, il n’est pas possible de faire correspondre un mur et une porte
+Si la tuile ne peut pas être posée, elle peut être vendue aux enchères (voir plus bas) aux autres joueurs. Si aucun joueur n’est intéressé, la tuile sera défaussée face visible dans la zone”discount” et les autres joueurs pourront l’acheter.
+Faire des travaux sur la maison
+
+Ouvrir une porte dans l’un des murs de la maison
+Vente aux enchères de tuiles
+Lorsqu’une tuile est vendue aux enchères (voir l’action “Piocher et poser une tuile”), tous les joueurs (sauf le vendeur) choisissent le montant qu’ils sont prêt à payer pour cette tuile et préparent les pièces d’or cachées sous leur main. Une fois que tous les acheteurs potentiels sont prêts, les enchères sont révélées. Si personne ne remporte l’enchère, la tuile est défaussée dans la zone “discount”.
+Discount
+A chaque fois qu’une tuile est rajoutée au discount, elle est rajoutée à droite des tuiles qui y sont déjà présente. La première tuile va sur le discount “-1”, la suivante sur le “-2”... ce nombre négatif indique la remise à appliquer au prix de la tuile lorsque la tuile est achetée au discount.
+Lorsqu’une tuile est achetée au discount, toutes les tuiles présentes à sa droite sont décalées. Par exemple, si le discount est plein, et qu’un joueur achète la tuile remiséeà -2, la tuile -3 passe à -2 et la tuile -4 passe à -3.
+Si il faut rajouter une tuile au discount alors qu’il est déjà plein, la tuile remisée à -4 est retirée du jeu.
+Matériel
+
+Plateaux individuels de 5x5 (1 par joueur) et 2 zones “corruption”
+Plateau central avec 3 zones “anti-trust”, une zone “discount” et une piste de score
+Marqueur de score (1 par joueur)
+100 Tuiles (en gros 20 par joueur). Chaque tuile a un coût et rapporte un certain nombre de poins de victoire lors de sa pose
+16 salons
+3 “petit salon”
+2 - 1
+3 “petite salle à manger”
+2 - 0
+5 “salon luxe” (1x1 et 2x2)
+1x1 = 4 - 4
+2x2 = 4 - 4 (+4 si les deux)
+5 “salle à manger luxe” (1x1 et 2x2)
+1x1 = 4 - 4
+2x2 = 4 - 4 (+4 si les deux)
+20 chambres
+5 chambres pourries
+1-1
+5 chambres luxe
+5-3
+5 chambres enfant pourries
+2-1
+5 chambres enfant luxe
+4-4
+12 sdb
+4 sdb pourries
+1-1
+4 sdb luxe
+4-6
+4 sdb “standard”
+2-2
+12 cuisine
+4 cuisines simples “pourries”
+2-1
+3 cusines américaines “pourries”
+3-1
+3 cuisines américaines “luxe”
+5-2
+2 cuisines simples grand luxe
+4-3
+8 bureaux
+2 bureaux simples
+2 - 0
+2 bureaux luxe
+3 - 2
+2 bureaux/chambre ami simples
+3 - 1
+2 bureaux/chambre ami luxe
+4 - 3
+4 celliers
+1-1
+4 WC+couloir
+2 luxe
+1-2
+2 simples
+1-1
+4 sdb+WC
+2 luxe
+3-3
+2 simples
+2-2
+20 aménagements extérieur
+2 jeux enfants
+4-6
+2 salle à manger extérieure
+3-4
+2 terrasse couverte
+3-4
+2 patio fleuri
+2-5
+piscine
+2 simples (rondes)
+1-3
+4 doubles (2x2 tuiles)
+3-6 (uniquement si complète donc en fait 6-12)
+3 arbres
+1-3
+1 puit
+1-3
+1 balançoire
+1-2
+1 chaise longue + parasol
+1-2
+20 cartes corruption (en gros 4 par joueur), ces cartes favorisent le joueur “en retard” (celui qui a le moins d’argent ou celui qui a posé le moins de tuiles ou celui qui a le moins de cartes en main...)
+Pot de vin: piocher 1 pièce d’argent
+Lors de votre prochaine pioche de tuile, piochez une tuile supplémentaire de la même pile. Le propriétaire de cette carte reçoit une tuile supplémentaire lorsque vous l’activez puis une fois sur deux (tournez la carte pour matérialiser cet effet)
+Volez un ouvrier à un autre joueur pour ce tour-ci. Le propriétaire de la carte pioche une carte
+Vous gagnez 3 pièces d’argent. Le propriétaire de la carte gagne 1 pièce
+Vous piochez 2 cartes. Le propriétaire de la carte pioche une carte
+Vous piochez 3 cartes. Vous en conserez une et en donnez une au propriétaire de la carte.
+Entrepôt : Volez cette carte à son propriétaire. Tant que cette carte est présente sur le plateau individuel d’un joueur, celui-ci peut conserver une tuile en main. Lors du “vol” de la carte, le propriétaire pioche deux cartes, en choisit une et défausse l’autre.
+Je joue au golf avec le ministre : Volez cette carte à son propriétaire. Tant que cette carte est présente sur le plateau individuel d’un joueur, celui-ci peut lors d’une phase ‘Jouer une carte’ décider de retirer une carte anti-trust. Lors du “vol” de la carte, le propriétaire pioche deux cartes, en choisit une et défausse l’autre.
+15 cartes anti-trust (en gros 3 par joueur)
+Super-discount : Tous les joueurs, sauf celui qui dispose du plus d’argent peuvent acheter une tuile au discount en payant le prix de la tuile moins la remise normale du discount moins 1 (le prix payé ne peut pas être inférieur à 1). Par exemple, si une tuile de valeur 5 est sur la zone de discount -2, il pourra la payer 2 (5-2-1=2). Ils jouent dans l’ordre croissant de l’argent disponible.
+Livraison express : Tous les joueurs, sauf celui qui a posé le plus de tuiles sur son chantier disposent d’une action “Piocher puis poser une tuile” sans utiliser d’ouvrier (ils doivent payer le prix quand même). Ils jouent cette action dans l’ordre croissant du nombre de tuiles posées.
+10 cartes chantier
+Famille AUTHIER
+budget 20
+Famille BEAULIEU
+Famille COSTE
+Famille DESJARDINS
+Famille ESNAULT
+Famille FLOCH
+Famille GENIN
+Famille HENON
+Famille IGAGNE
+Famille JEROME
+Des pièces ou des billets
+
+Idées
+
+Avoir des fournisseurs chez qui tout le monde peut se servir
+Pouvoir avoir un “meilleur prix” chez l’un ou l’autre des fournisseurs
+Pouvoir regarder une ou plusieurs des cartes de la pioche d’un des fournisseurs
+avoir des objectifs cachés que l’on ne découvre qu’en fin de jeu. Par exemple :
+maison trop grande "je veux pas nettoyer "
+gazon "je veux pas tondre "
+
+Phases de jeu
+Le jeu se découpe en 2 phases : construction de la maison et aménagement extérieur. Un joueur qui a satisfait tous les critères de sa famille, se voit allouer un budget supplémentaire pour effectuer des aménagements extérieurs sur son terrain.
+Tour de jeu
+Chaque joueur, en commençant par celui qui possède le marqueur premier joueur peut effectuer une action « ouvrier » et une action « libre ». Lorsque tous les joueurs ont posé tous leurs ouvriers, c'est la fin du tour.
+Les joueurs récupèrent alors leurs ouvriers, le marqueur premier joueur passe au joueur suivant (sens horaire) et les cartes posées sont révélées.
+Actions « ouvrier »
+Pour effectuer ces actions, il faut utiliser l'un de ses ouvriers. Il n'est donc pas possible d'effectuer ces actions si on ne dispose pas d'ouvrier.
+Piocher des tuiles : le joueur pioche 2 tuiles sur le dessus d'une pile et pose son ouvrier sur cette pile. Il choisit ensuite quelle tuile il désire poser et défausse l'autre au Discount. Il doit payer le prix nécessaire pour poser la tuile avec éventuellement le surcoût de la pose d'une porte.
+Activer une carte : le joueur pose son ouvrier sur une carte (corruption ou anti-trust) déjà révélée et effectue l'action indiquée sur la carte. Dans le cas d'une carte corruption, l'effet bénéfique pour le propriétaire de la carte n'est activé que si le joueur n'est pas lui même le propriétaire de la carte.

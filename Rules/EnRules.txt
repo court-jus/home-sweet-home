@@ -1,0 +1,32 @@
+Bienvenue Chez vous
+a game by Ghislain "Court-Jus" Lévêque for 2 to 5 players
+The players are house builders and try to build the best house for their client with a limited budget.
+Components
+1 individual player board for each player
+1 first player token
+15 worker cubes (3 per player)
+5 score markers (1 per player)
+1 common board
+100 room tiles
+xx spcecial action cards
+xx antitrust cards
+xx objective cards
+Money
+Door markers
+Setup
+Each player takes 1 individual board and 3 workers.
+Shuffle all the special action and antitrust cards in one deck and the objective cards in another deck.
+Put the common board, the money, the doors and the two decks (face down) within the reach of everyone. Put 1 score marker per player on the "0" position of the score track.
+Separate the outdoor tiles from the indoor tiles, shuffle them. Make one face down pile for outdoor tiles and 2 face down piles per player for indoor tiles (with 3 players, you will make 6 piles). Turn face up the first tile of half the indoor piles.
+Each player receives 1 objective card and takes money according to what is written on this objetive card. The objective card describes the house that must be built (how many rooms...).
+Randomly choose the first player.
+The game
+The game is divided in turns.
+Game turn
+Starting with the first player, each player can take one "worker" action and one "free" action. When every worker is placed or when every player has passed, the turn ends.
+The player then take their workers back, the first player changes (to the left) and the cards played during the turn are revealed face up.
+Worker action
+These actions require the player to use one of his workers. A player with no more workers cannot choose one of these actions.
+Draw a tile
+Draw 2 tiles from any pile, choose 1 of them and discard the other one in the discount. Put 1 worker on the pile you've drawn from. Now you have to pay the price of the choosen tile in order to put it on your individual board.
+When you put a tile on your player board, if it is adjacent to another one, they must share a door. If they don't, you have to pay 1 extra [MONEY] to open a door. Put a door marker on the wall you want to open.
