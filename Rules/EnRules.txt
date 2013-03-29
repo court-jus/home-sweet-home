@@ -27,6 +27,21 @@ Starting with the first player, each player can take one "worker" action and one
 The player then take their workers back, the first player changes (to the left) and the cards played during the turn are revealed face up.
 Worker action
 These actions require the player to use one of his workers. A player with no more workers cannot choose one of these actions.
+In this section, when talking about something free (free pile for example), it means that there is no worker on it. It is not possible to play an action if another worker is already present there.
 Draw a tile
-Draw 2 tiles from any pile, choose 1 of them and discard the other one in the discount. Put 1 worker on the pile you've drawn from. Now you have to pay the price of the choosen tile in order to put it on your individual board.
+Draw 2 tiles from any free pile, choose 1 of them and discard the other one in the discount. Put 1 worker on the pile you've drawn from. Now you have to pay the price of the choosen tile in order to put it on your individual board.
 When you put a tile on your player board, if it is adjacent to another one, they must share a door. If they don't, you have to pay 1 extra [MONEY] to open a door. Put a door marker on the wall you want to open.
+Draw a discount tile
+Choose one of the tiles present in the discount zone, pay the price of the tile minus the discount value. Every tile present to the right of the bought tile are moved left (if you buy the -2 card, then the -3 card goes to the -2 zone and the -4 card goes to the -3 zone).
+Draw a card
+Choose the draw pile or the discard pile. The choosen pile must be free. If you choose the draw pile, take 2 cards, choose one and discard this other one (face down). If you choose the discard pile, draw the last discarded card.
+Put 1 worker on the pile you've drawn from.
+Trigger a card
+Choose a face up free card. Put 1 worker on it an apply its effects. If it's a special action card and you're not its owner, its owner applies the "owner" effects.
+When you apply the effects of a card, ignore the workers present on the draw or discard pile. If a card says that you can draw, then you can draw even if a worker is present on the draw pile.
+Free action
+Play a card
+Play a card face down from your hand to your special action zone or to the main board antitrust zone. This action does not require a worker. The card will only be revealed at the end of the turn and cannot be triggered until then.
+Details
+The discount
+When a tile should be added to the discount and it is already full, the -4 card is removed from the game.
